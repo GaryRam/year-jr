@@ -1,0 +1,45 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    width: 100%;
+    min-height: 300px;
+}
+h1 {
+    text-align: center;
+}
+.Center-text {
+    text-align: center;
+}
+.p1 {
+    background-color: rgb(127, 127, 238);
+}
+
+.p2 {
+    background-color: rgb(170, 252, 225);
+}
+
+.p3 {
+    background-color: rgb(154, 219, 138);
+}
+
+.p4 {
+   background-color: rgb(159, 172, 247);
+}
+
+.p5 {
+    background-color: aqua;
+}
+
+.p6 {
+    background-color: rgb(243, 227, 139);
+}
+
+.p7 {
+    background-color: rgb(245, 133, 118);
+}
+
+.gray-bg, th{
+    background-color: rgb(209, 209, 209);
+}
